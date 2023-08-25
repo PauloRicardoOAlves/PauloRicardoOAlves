@@ -4,20 +4,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End 
+💻 sou um desenvolvedor Back-End 
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
+🎓 Estudo Desenvolvimento de Software com Foco em Back-End.
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End
-
-👩‍💻 Atualmente eu trabalho como Gerente Financeiro e estou em transição de carreira para a área tech.
-
-✒️ Eu gosto de no meu tempo livre de andar pedalar e jogar;
+👩‍💻 Tenho experiência com gerenciamento de equipes, financeiro e vendas.  
 
 **Tecnologias e Ferramentas**
-
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
